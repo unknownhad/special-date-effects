@@ -22,7 +22,7 @@ Perfect for surprising your users with seasonal cheer!
 #### Using jsDelivr (recommended)
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/YOUR-USERNAME/special-date-effects/special-date-effects.js"></script>
+<script src="https://<yourwebsite>/special-date-effects.js"></script>
 ```
 2. Initialize it
 
